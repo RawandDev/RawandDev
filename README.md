@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rawand</h1>
 <h3 align="center">An enthusiastic front-end developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rawanddev&label=Profile%20views&color=0e75b6&style=flat" alt="rawanddev" /> </p>
-
 - 💬 Ask me about **HTML, CSS, JavaScript and Reactjs**
 
 - 📫 How to reach me **erfy.rachel@gmail.com**
