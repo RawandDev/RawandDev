@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rawand</h1>
 <h3 align="center">An enthusiastic front-end developer.</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript and Reactjs**
+- 💬 Ask me about **HTML, CSS, JavaScript, Reactjs, Nextjs and Firebase**
 
 - 📫 How to reach me **erfy.rachel@gmail.com** || **rawand.200091384037@gmail.com**
 
